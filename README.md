@@ -24,7 +24,7 @@ query functions to create a database and store user login details into the table
 
 # Installation:
  ```
-  1. git clone https://github.com/dahalsweekar/LogIn-System
+  1. git clone https://github.com/dahalsweekar/LogIn-System.git
   2. Run python files on python IDE
  ```
 
