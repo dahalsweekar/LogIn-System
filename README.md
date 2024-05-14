@@ -23,6 +23,8 @@ query functions to create a database and store user login details into the table
 ![mysql_db](https://github.com/dahalsweekar/NLP-Seq-to-Seq_Attention-/assets/99968233/2da223f6-0097-4670-ab43-9defb3832550)
 
 # Installation:
+ ```
   1. git clone https://github.com/dahalsweekar/LogIn-System
   2. Run python files on python IDE
+ ```
 
